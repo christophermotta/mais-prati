@@ -39,6 +39,6 @@ cd seu-repositorio
 npm install prompt-sync
 ```
 
-3. **Execute o arquivo `desafio-` + `numero do desafio`:**
----
-exemplo: desafio-15
+3. **Execute o arquivo `desafio-` + `numero do desafio.js`:**
+
+> Exemplo: desafio-15.js
