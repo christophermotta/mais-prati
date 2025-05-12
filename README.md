@@ -29,3 +29,7 @@ Os exercícios estão organizados em arquivos JavaScript separados, nomeados con
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
+
+Instale o pacote prompt-sync:
+
+2. **Instale o pacote prompt-sync:**
