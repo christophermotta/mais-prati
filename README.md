@@ -39,4 +39,5 @@ cd seu-repositorio
 npm install prompt-sync
 ```
 
-3. **Execute o arquivo `main.js`:**
+3. **Execute o arquivo `desafio-` + `numero do desafio`:**
+exemplo: desafio-15
