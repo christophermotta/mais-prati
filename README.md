@@ -39,6 +39,41 @@ cd seu-repositorio
 npm install prompt-sync
 ```
 
-3. **Execute o arquivo `desafio-` + `numero do desafio.js`:**
+4. **Execute o arquivo `desafio-` + `numero do desafio.js`:**
 
 > Exemplo: desafio-15.js
+
+---
+
+## 📋 Lista de Desafios
+
+1. **Par ou Ímpar**: Recebe um número inteiro e verifica se ele é par ou ímpar usando `if`.
+
+2. **Classificação por Idade**: Classifica a idade como criança, adolescente, adulto ou idoso.
+
+3. **Classificação por Nota**: Recebe uma nota de 0 a 10 e classifica como Aprovado, Recuperação ou Reprovado.
+
+4. **Menu Interativo**: Exibe um menu com 3 opções e usa `switch-case` para executar a lógica.
+
+5. **Cálculo de IMC**: Calcula o Índice de Massa Corporal e classifica o resultado.
+
+6. **Verificação de Triângulo**: Verifica se 3 lados formam um triângulo e identifica seu tipo (Isósceles, Escaleno ou Equilátero).
+
+7. **Compra de Maçãs**: Calcula o valor total com base na quantidade de maçãs compradas.
+
+8. **Ordem Crescente**: Lê dois valores e os exibe em ordem crescente.
+
+9. **Contagem Regressiva**: Exibe uma contagem de 10 até 1 usando `for`.
+
+10. **Repetição de Número**: Lê um número inteiro e o escreve na tela 10 vezes.
+
+11. **Soma de Números**: Solicita 5 números ao usuário e calcula a soma total.
+
+12. **Tabuada**: Exibe a tabuada de um número fornecido, de 1 a 10.
+
+13. **Média de Decimais**: Recebe números decimais até que 0 seja digitado e calcula a média.
+
+14. **Fatorial**: Calcula o fatorial de um número com `for` ou `while`.
+
+15. **Sequência de Fibonacci**: Gera e imprime os 10 primeiros números da sequência de Fibonacci.
+
